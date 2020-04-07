@@ -1,0 +1,1 @@
+# react-typescript-i18n-intl
