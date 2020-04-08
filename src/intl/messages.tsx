@@ -1,5 +1,3 @@
-import React from 'react';
-
 const locales : any = {
     en: {
       greeting: "Hello {locale}! How are you?",
